@@ -1,0 +1,11 @@
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\spider_electro56\spider_electro56\bin\Debug\spider_electro56.exe
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\spider_electro56\spider_electro56\bin\Debug\spider_electro56.pdb
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\spider_electro56\spider_electro56\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\spider_electro56\spider_electro56\obj\x86\Debug\spider_electro56.Form1.resources
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\spider_electro56\spider_electro56\obj\x86\Debug\spider_electro56.Properties.Resources.resources
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\spider_electro56\spider_electro56\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\spider_electro56\spider_electro56\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\spider_electro56\spider_electro56\obj\x86\Debug\spider_electro56.exe
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\spider_electro56\spider_electro56\obj\x86\Debug\spider_electro56.pdb
+D:\GIT\Electro56-spider\spider_electro56\obj\x86\Debug\spider_electro56.exe
+D:\GIT\Electro56-spider\spider_electro56\obj\x86\Debug\spider_electro56.pdb
